@@ -1,4 +1,4 @@
-# Botão gradiente com animação gradiente
+# Botão gradiente com efeito neon
 
 Botão elegante com efeito neon muito bonito. 
 
